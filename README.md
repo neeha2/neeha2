@@ -8,7 +8,7 @@ current flavor palette!
 
 - ask a question and get research articles related to it.
 ex. my current question — i recently got a kitten, and its making me wonder, i give it value because of
-its outward display and presentation — a soft blob. as opposed to say, a bug which is not a soft fly. what gives
+its outward display and presentation — a soft blob. as opposed to say, a bug which is not a soft blob. what gives
 something value? and why is value so shallow, especially in terms of human perception?
 
 - some UX samples for my portfolio — presenting solutions visually
