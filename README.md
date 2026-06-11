@@ -1,16 +1,29 @@
-## Hi there 👋
+```
+just getting my greens in...
+```
 
-<!--
-**neeha2/neeha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+current flavor palette!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ask a question and get research articles related to it.
+ex. my current question — i recently got a kitten, and its making me wonder, i give it value because of its outward
+display and presentation — a soft blob. as opposed to say, a bug which is not a soft fly. what gives something value?
+and why is value so shallow, especially in terms of human perception?
+
+- some UX samples for my portfolio — presenting solutions visually
+- aquapets game app reboot — my favorite game as a child, before it got discontinued. cute, immersive, meaningful,
+and i need it.
+- profile analyzer — think instagram, linkedin, spotify u input ur profile link or details and it gives u a fun
+analysis -> later expanding to complex metrics
+
+- roblox game dev question mark
+- scratch game dev...
+
+- market analysis tool for global stocks - ai/war tools/politics + accurate headlines to avoid implicit bias
+
+```
+```
+lets eat healthy!
+```
+
