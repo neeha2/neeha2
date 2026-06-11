@@ -7,15 +7,15 @@ just getting my greens in...
 current flavor palette!
 
 - ask a question and get research articles related to it.
-ex. my current question — i recently got a kitten, and its making me wonder, i give it value because of its outward
-display and presentation — a soft blob. as opposed to say, a bug which is not a soft fly. what gives something value?
-and why is value so shallow, especially in terms of human perception?
+ex. my current question — i recently got a kitten, and its making me wonder, i give it value because of
+its outward display and presentation — a soft blob. as opposed to say, a bug which is not a soft fly. what gives
+something value? and why is value so shallow, especially in terms of human perception?
 
 - some UX samples for my portfolio — presenting solutions visually
-- aquapets game app reboot — my favorite game as a child, before it got discontinued. cute, immersive, meaningful,
-and i need it.
-- profile analyzer — think instagram, linkedin, spotify u input ur profile link or details and it gives u a fun
-analysis -> later expanding to complex metrics
+- aquapets game app reboot — my favorite game as a child, before it got discontinued. cute, immersive,
+meaningful, and i need it.
+- profile analyzer — think instagram, linkedin, spotify u input ur profile link or details and it gives
+u a fun analysis -> later expanding to complex metrics
 
 - roblox game dev question mark
 - scratch game dev...
@@ -24,6 +24,6 @@ analysis -> later expanding to complex metrics
 
 ```
 ```
-lets eat healthy!
+om nom!
 ```
 
