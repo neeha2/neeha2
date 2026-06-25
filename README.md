@@ -27,5 +27,3 @@ u a fun analysis -> later expanding to complex metrics
 om nom!
 ```
 
-https://www.linkedin.com/in/neeharika-d-bb72591a5/
-
